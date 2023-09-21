@@ -25,6 +25,10 @@
             "name": "🚀南风"
         }, 
         {
+            "url": "http://xhww.fun:63/小米/DEMO.json", 
+            "name": "🚀小米"
+        },
+        {
             "url": "https://www.bestpvp.site/关注码上放生/时光机", 
             "name": "🚀码上放生"
         }, 
@@ -79,6 +83,23 @@
         {
             "url": "http://dxawi.github.io/0/0.json", 
             "name": "🚀dxawi线路"
+        },
+        {
+            "url":"https://pan.shangui.cc/f/mPecb/采集.json",
+            "name": "业余采集在线"
+        },
+        {   
+            "url":"https://raw.liucn.cc/box/m.json",
+            "name": "刘备线路"
+        },
+        {
+            "url":"http://tvbo.run.goorm.site/tangs.json",
+            "name": "唐三线路"
+        },
+        {
+            "name":"🔘精选",
+            "url":"https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt"
         }
+
     ]
 }
