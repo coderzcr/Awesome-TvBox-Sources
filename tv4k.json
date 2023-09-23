@@ -1,8 +1,28 @@
 {
   "sites": [
+        {
+      "key": "豆瓣1",
+      "name": "🐧爱TV吧备份防失联(日期0824)",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://drpy.cainisi.cf/js/drpy.js"
+    },
+    {
+      "key": "豆瓣",
+      "name": "🐧爱TV吧备份防失联(日期0824)",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
 //饭太硬
-{"key": "js豆豆","name": "🐧【爱TV吧 4K备份】防失联(日期0824)","type": 3,"api": "http://xhww.fun:63/js/drpy1.min.js","ext": "http://smallmi.xiaohewanwan.love:63/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"drpy_js_豆瓣","name":"🐧【爱TV吧 4K备份】】防失联(日期0824)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+//{"key": "js豆豆","name": "🐧【爱TV吧 4K备份】防失联(日期0824)","type": 3,"api": "http://xhww.fun:63/js/drpy1.min.js","ext": "http://smallmi.xiaohewanwan.love:63/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"key":"drpy_js_豆瓣","name":"🐧【爱TV吧 4K备份】】防失联(日期0824)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 //{"key": "csp_KungFu404","name": "🎦有效聚合","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 1,"changeable": 0},
 //阿驰小屋
 {"key": "贱贱","name": "❤┃荐片┃磁力","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
