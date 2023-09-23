@@ -2,11 +2,11 @@
     "urls": [
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/coderzcr/Awesome-TvBox-Sources/main/tv.json", 
-            "name": "爱TV吧"
+            "name": "🌹爱TV吧"
         }, 
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/4k.json", 
-            "name": "纯4K"
+            "name": "🌹纯4K"
         }, 
         {
             "url": "http://饭太硬.top/tv", 
@@ -86,19 +86,35 @@
         },
         {
             "url":"https://pan.shangui.cc/f/mPecb/采集.json",
-            "name": "业余采集在线"
+            "name": "🔘业余采集在线"
         },
         {   
             "url":"https://raw.liucn.cc/box/m.json",
-            "name": "刘备线路"
+            "name": "🔘刘备线路"
         },
         {
             "url":"http://tvbo.run.goorm.site/tangs.json",
-            "name": "唐三线路"
+            "name": "🔘唐三线路"
         },
         {
             "name":"🔘精选",
             "url":"https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt"
+        },
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "💖刚刚"
+        }, 
+        {
+            "url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json",
+            "name": "💖业余打发"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "💖运输车"
+        },
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "💖巧技"
         }
 
     ]
