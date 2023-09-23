@@ -2,10 +2,14 @@
     "urls": [
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/coderzcr/Awesome-TvBox-Sources/main/tv.json", 
-            "name": "🌹爱TV吧"
+            "name": "🌹爱TV吧备份"
         }, 
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/coderzcr/Awesome-TvBox-Sources/main/tv4k.json", 
+            "name": "🌹纯4K备份"
+        }, 
+        {
+            "url": "http://tt.58cxz.com/video/4k.json", 
             "name": "🌹纯4K"
         }, 
         {
