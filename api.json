@@ -8,10 +8,10 @@
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/coderzcr/Awesome-TvBox-Sources/main/tv4k.json", 
             "name": "✔纯4K备份"
         }, 
-        {
-            "url": "http://tt.58cxz.com/video/4k.json", 
-            "name": "💖纯4K"
-        }, 
+        // {
+        //     "url": "http://tt.58cxz.com/video/4k.json", 
+        //     "name": "💖纯4K"
+        // }, 
         {
             "url": "https://weixine.net/ysc.json",
             "name": "💖运输车"
