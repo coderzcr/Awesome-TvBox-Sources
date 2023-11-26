@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/coderzcr/Awesome-TvBox-Sources/main/tv.json", 
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/coderzcr/Awesome-TvBox-Sources/main/tv.json", 
             "name": "✔爱TV吧备份"
         }, 
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/coderzcr/Awesome-TvBox-Sources/main/tv4k.json", 
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/coderzcr/Awesome-TvBox-Sources/main/tv4k.json", 
             "name": "✔纯4K备份"
         }, 
         // {
@@ -65,11 +65,11 @@
             "name": "云星日记"
         }, 
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", 
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", 
             "name": "高天流云"
         }, 
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", 
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", 
             "name": "香雅晴"
         }, 
         {
@@ -89,7 +89,7 @@
             "name": "宝盒线路"
         }, 
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json", 
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json", 
             "name": "酷安潇洒哥线路"
         }, 
         {
@@ -129,7 +129,7 @@
             "name": "小雅线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
             "name": "佰欣园"
         }
     ]
